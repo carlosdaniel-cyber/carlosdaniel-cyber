@@ -15,8 +15,8 @@
 - 📫 How to reach me: carlosdanielbp101@gmail.com
 
 <p align="center">
-<a href="https://twitter.com/car_dan1el" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter icon" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/carlos-pereira-4325b4190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin icon" height="20" width="20" /></a>
-<a href="https://www.facebook.com/profile.php?id=100004509962872" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook icon" height="20" width="20" /></a>
-<a href="https://instagram.com/car_daniel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="20" width="20" /></a>
+<a href="https://twitter.com/car_dan1el" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter icon" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/carlos-pereira-4325b4190/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin icon" height="20" width="20" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004509962872" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook icon" height="20" width="20" /></a>
+<a href="https://instagram.com/car_daniel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="20" width="20" /></a>
 </p>
