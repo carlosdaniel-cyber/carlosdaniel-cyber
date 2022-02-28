@@ -14,7 +14,7 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<img width="530em" src="" alt="carlos's most used languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel-cyber&layout=compact&theme=github_dark&bg_color=DEG,000,345cc9&border_color=4e525b&custom_title=Top used Languages" alt="carlos's most used languages"/>
 
 <br>
 
