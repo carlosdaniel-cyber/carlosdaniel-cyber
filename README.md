@@ -14,9 +14,36 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel-cyber&layout=compact&theme=github_dark&bg_color=DEG,000,345cc9&border_color=4e525b&custom_title=Top used Languages" alt="carlos's most used languages"/>
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=carlosdaniel-cyber&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=carlosdaniel-cyber&show_icons=true&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=carlosdaniel-cyber&show_icons=true" />
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel-cyber&theme=transparent&langs_count=3"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel-cyber&theme=default&langs_count=3"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdaniel-cyber&langs_count=3" />
+</picture>
 
 <br>
+
+<!-- add portfolio site -->
+
 
 ## 🙆🏿‍♂️ &nbsp;Social Links
 
