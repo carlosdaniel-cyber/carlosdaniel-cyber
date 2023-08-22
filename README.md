@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos</h1>
+<h1 align="center">Hi, I'm Carlos</h1>
 <h3 align="center">A Front-End Developer eager to learn new things</h3>
 
 <br>
@@ -48,17 +48,8 @@
 ## 🙆🏿‍♂️ &nbsp;Social Links
 
 <p>
-<a href="https://twitter.com/car_dan1el" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-car__dan1el-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://www.linkedin.com/in/car-daniel/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/car--daniel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/car_daniel" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-car__daniel-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.facebook.com/car.danielpereira/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/car.danielpereira-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 <a href="mailto:carlosdanielbp101@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/carlosdanielbp101@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
